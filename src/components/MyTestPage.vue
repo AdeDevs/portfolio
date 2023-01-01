@@ -1,0 +1,19 @@
+<template>
+    <h1>
+        Omorr why e no work
+    </h1>
+</template>
+
+<script>
+export default {
+    data() {
+        return {
+
+        }
+    }
+}
+</script>
+
+<style>
+
+</style>
